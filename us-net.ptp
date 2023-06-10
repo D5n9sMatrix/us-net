@@ -1,0 +1,57 @@
+<project version="4.0">
+	<category name="gnu" expanded="no">
+		<category name="matrix" expanded="no">
+			<category name="bin" expanded="no">
+				<category name="client" expanded="no">
+					<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\dialog" />
+					<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\dialog.bas" />
+					<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\fall" />
+					<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\fall.bas" />
+					<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\gov" />
+					<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\gov.bas" />
+					<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\node" />
+					<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\node.bas" />
+					<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\shall" />
+					<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\shall.bas" />
+				</category>
+			</category>
+			<category name="lib" expanded="no">
+				<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\dialog" />
+				<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\dialog.bas" />
+				<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\fall" />
+				<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\gov" />
+				<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\gov.bas" />
+				<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\node" />
+				<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\node.bas" />
+				<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\shall" />
+				<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\shall.bas" />
+			</category>
+			<category name="test" expanded="no">
+				<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\dialog" />
+				<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\dialog.bas" />
+				<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\fall" />
+				<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\gov" />
+				<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\gov.bas" />
+				<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\node.bas" />
+				<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\shall" />
+				<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\shall.bas" />
+			</category>
+		</category>
+	</category>
+	<localfile path="Z:\home\denis\vfb-net\us-net\license" />
+	<localfile path="Z:\home\denis\vfb-net\us-net\readme.md" />
+</project>
+
+<workspace version="4.0">
+	<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\dialog" linenum="1" placement="0:1:-1:-1:-6:-30:22:22:568:290" />
+	<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\dialog.bas" linenum="1" placement="0:1:-1:-1:-6:-30:44:44:590:312" />
+	<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\fall" linenum="1" placement="0:1:-1:-1:-6:-30:66:66:612:334" />
+	<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\gov.bas" linenum="31" placement="0:1:-1:-1:-6:-30:88:88:634:356" />
+	<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\gov" linenum="2" placement="0:1:-1:-1:-6:-30:110:110:656:378" />
+	<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\shall.bas" linenum="28" placement="2:1:0:380:-6:-30:132:132:678:400" />
+	<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\shall" linenum="1" placement="0:1:160:376:-6:-30:47:71:593:339" />
+	<localfile path="Z:\home\denis\vfb-net\us-net\gnu\matrix\bin\client\term\node.bas" linenum="14" placement="0:1:-1:-1:-6:-30:66:66:656:280" />
+	<localfile path="Z:\home\denis\vfb-net\us-net\readme.md" linenum="550" placement="0:1:-1:-1:-6:-30:88:88:678:302" />
+	<localfile path="Z:\home\denis\vfb-net\us-net\license" linenum="10" placement="0:3:-1:-1:-6:-30:0:0:590:214" />
+</workspace>
+
